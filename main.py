@@ -1,0 +1,1 @@
+print(((x+y)**2 * (x+1)).expand())
